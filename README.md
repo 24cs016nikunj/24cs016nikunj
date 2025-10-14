@@ -5,6 +5,11 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikunj.desai77) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikunj-desai-a5722131b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:desainikunj121@gmail.com) 
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RtcGdjcnN5NGJobjhqZGU3bjFzOHkyYTB5ODVod3ZoMDViMTJ0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="Hacking GIF" width="48%">
+  &nbsp; &nbsp; &nbsp; <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3owNzBucGh2am9iMmg3YnZuZGN6c2w5Zjc5eGtjdHVlOXYzZ25sYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="48%">
+</div>
+
 
 
 # 💻 Tech Stack:
